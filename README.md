@@ -24,3 +24,7 @@ Azure Cognitive Service, QnA Maker, Static Web Apps
 
 ## Other Azure Technologies
 QnA Maker: QnA Maker is a cloud-based Natural Language Processing (NLP) service that allows you to create a natural conversational layer over your data. App Services: App Service is a Platform as a Service (PaaS) offering from Microsoft. We use it to host web applications, REST API's and backend services for mobile applications Azure Cognitive Services: Azure Container Instances is a service that enables a developer to deploy containers on the Microsoft Azure public cloud without having to provision or manage any underlying infrastructure.
+
+
+
+![ecommerce-shopping-cart](https://user-images.githubusercontent.com/90968523/172471081-1cce1397-29ab-491c-a9f9-25223fa560fa.jpg)
