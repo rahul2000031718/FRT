@@ -14,7 +14,7 @@ technology used is HTML, CSS, JS, Bootstrap
 Health
 
 ## Project Title
-Online dentistry management System
+Online dental management System
 
 ## Problem Statement/Opportunity
 Mostly people visit the dental care for the treatment, but sometimes due to overcrowd or doctor's unavailability, the patient faces drastic inconvenience, which might be consequential in case of serious condition. Alike the above case people have to wait hours to substantiate their slot for doctor's consultancy ,which is again waste of time. Dentistry website will provide offers to customer which they usually not get from the clinic assistant for proper hospitality and consultant of services.
